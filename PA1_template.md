@@ -38,7 +38,7 @@ totalStepsDay <- tapply(activityData$steps, activityData$date, sum, na.rm = TRUE
 qplot(totalStepsDay, xlab = "Total steps per day", ylab = "Frequency", binwidth=500)
 ```
 
-![](PA1_template_files/figure-html/simulationdata1-1.png)<!-- -->
+![](RepData_PeerAssessment1/figure/simulationdata1-1.png)<!-- -->
 
 3.Calculate and report the mean and median of the total number of steps taken per day
 
