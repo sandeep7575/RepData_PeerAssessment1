@@ -1,7 +1,7 @@
 ---
-title: "Reproducible Research: Project 1"
-author: "Sandeep Kola"
-date: '2017-05-12'
+Title: "Reproducible Research: Project 1"
+Author: "Sandeep Kola"
+Date: '2017-05-12'
 ---
 
 
